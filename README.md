@@ -20,6 +20,7 @@ also you can download the Haar feature-based cascade classifiersfrom my folder b
 
 here you will get the tutorial as well the mechanism of this classifier.You can find my code in the project folder
 
-how to run this in your terminal:- python face_detect_cv3.py *name of the image*
+how to run this in your terminal:- python face_detect_cv3.py * name of the image.ext *
+
 remember to store the image in your program directory
 
