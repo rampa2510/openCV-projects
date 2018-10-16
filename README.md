@@ -6,7 +6,7 @@
 2)https://docs.opencv.org/2.4/doc/tutorials/introduction/table_of_content_introduction/table_of_content_introduction.html#table-of-content-introduction
 here you will learn how to download openCV on your respective os and also tutorials on openCV
 
-# Projects
+## Projects
 here are my projects which made using openCV module of python
 
 ## Face detection using python
@@ -16,5 +16,5 @@ I used the Haar feature-based cascade classifiers for facial detection
 link to download:- https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_objdetect/py_face_detection/py_face_detection.html
 
 
-here you will get the tutorial as well the mechanism of this classifier
+here you will get the tutorial as well the mechanism of this classifier.You can find my code in the project folder
 
