@@ -18,7 +18,7 @@ link to download:- https://opencv-python-tutroals.readthedocs.io/en/latest/py_tu
 
 also you can download the Haar feature-based cascade classifiersfrom my folder but remember to keep it in the same directory as your project/programm
 
-here you will get the tutorial as well the mechanism of this classifier.You can find my code in this repository by the name of *face_detect_cv3.py
+here you will get the tutorial as well the mechanism of this classifier.You can find my code in this repository by the name of *face_detect_cv3.py*
 
 how to run this in your terminal:- python face_detect_cv3.py * name of the image.ext *
 
