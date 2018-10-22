@@ -29,3 +29,8 @@ how to run this in your terminal:- python face_detect_cv3.py * name of the image
 
 remember to store the image in your program directory.
 
+## Face detection in a webcam using python
+I used the Haar feature-based cascade classifiers for facial detection.
+
+
+Also you can download the Haar feature-based cascade classifiersfrom my folder but remember to keep it in the same directory as your project/programm.
