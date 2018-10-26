@@ -33,4 +33,8 @@ remember to store the image in your program directory.
 I used the Haar feature-based cascade classifiers for facial detection.
 
 
+You have to run the command in your terminal with the directory where you have stored the python program.
+
+COMMAND:- * fa
+
 Also you can download the Haar feature-based cascade classifiersfrom my folder but remember to keep it in the same directory as your project/programm.
