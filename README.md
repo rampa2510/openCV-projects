@@ -14,7 +14,7 @@ Here you will learn how to download openCV on your respective os and also tutori
 ## Projects
 Here are my projects which I made using openCV module of python.
 
-## Face detection using python
+### Face detection using python
 I used the Haar feature-based cascade classifiers for facial detection.
 
 
@@ -29,7 +29,7 @@ how to run this in your terminal:- python face_detect_cv3.py * name of the image
 
 remember to store the image in your program directory.
 
-## Face detection in a webcam using python
+### Face detection in a webcam using python
 I used the Haar feature-based cascade classifiers for facial detection.
 
 
