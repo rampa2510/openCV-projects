@@ -1,6 +1,6 @@
 # openCV-projects
 ## Download Python3:-
-I made all of my projects using python3, it will be replaced in the future by its succesor but I belive the changes in the syntax will be minimal so if you have python vdersion other than 3.X look out for changes
+I made all of my projects using python3, it will be replaced in the future by its succesor but I belive the changes in the syntax will be minimal so if you have python version other than 3.X look out for changes in my code
 
 To download python :- https://www.python.org/downloads/
 
