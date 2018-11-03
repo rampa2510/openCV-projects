@@ -27,7 +27,7 @@ Also you can download the Haar feature-based cascade classifiersfrom my folder b
 
 here you will get the tutorial as well the mechanism of this classifier.You can find my code in this repository by the name of *face_detect_cv3.py*
 
-how to run this in your terminal:- python face_detect_cv3.py *name of the image.ext *
+how to run this in your terminal:- python face_detect_cv3.py *name of the image.ext*
 
 remember to store the image in your program directory.
 
@@ -37,6 +37,6 @@ I used the Haar feature-based cascade classifiers for facial detection.
 
 You have to run the command in your terminal with the directory where you have stored the python program.
 
-COMMAND:- *face_detection_webcam.py *
+COMMAND:- *face_detection_webcam.py*
 
 Also you can download the Haar feature-based cascade classifiersfrom my folder but remember to keep it in the same directory as your project/programm.
