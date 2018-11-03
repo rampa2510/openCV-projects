@@ -6,8 +6,10 @@ To download python :- https://www.python.org/downloads/
 
 ## Download openCV:- 
 
-1)Command line:- pip3 install opencv3.
+1)Command line:- conda install -c menpo opencv(for windows)
 
+
+FOR OS OTHER THAN WINDOWs:-
 2)https://docs.opencv.org/2.4/doc/tutorials/introduction/table_of_content_introduction/table_of_content_introduction.html#table-of-content-introduction
 Here you will learn how to download openCV on your respective os and also tutorials on openCV.
 
